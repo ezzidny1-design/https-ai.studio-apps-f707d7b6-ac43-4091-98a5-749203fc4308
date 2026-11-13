@@ -1,0 +1,6 @@
+{
+  "name": "Lomba Lari Numerasi · SDN Lendang Telaga",
+  "description": "Game balap edukasi numerasi interaktif untuk siswa Fase B dan Fase C serta papan lomba guru di SDN Lendang Telaga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
